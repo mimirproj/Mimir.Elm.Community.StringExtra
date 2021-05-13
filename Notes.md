@@ -1,0 +1,1 @@
+dotnet pack ./src/Mimir.Elm.Community.StringExtra.fsproj -c Release
